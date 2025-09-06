@@ -1,4 +1,5 @@
 console.log("Hello World, OnePiece")
+const a=5;
 
 let name="Tharaka Ram"
 console.log(name)
